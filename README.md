@@ -19,5 +19,5 @@ There is a really good package for face and hand detection called "mediapipe". T
 6.  type `import Alert_Behavior`
 7.  type `from Alert_Behavior import alert`
 8.  type `alert.start_session().start_alert()`
-9.  Yayy! if you see the webcam video launched in imaging window, you successfully started the session. You can try by moving your fingers to near nose and mouth and you will hear the beep sound. If you have a habit of touching nose and mouth with your fingers, this annoying beep sound will deter you from doing that
+9.  Yayy! if you see the webcam video launched in imaging window, you successfully started the session. You can try by moving your fingers near to nose and mouth and you will hear the beep sound. If you have a habit of touching nose and mouth with your fingers, this annoying beep sound will deter you from doing that
 
