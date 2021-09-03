@@ -1,16 +1,16 @@
-Introduction
+**Introduction:**
 This package alerts the users whey they happen to touch their mouth and nose 
 while working in the computers. Some people develop some unwanted habits such as
 nose picking and nail biting while working all day long in computer without thier attention. This package 
 can help them destroy such habits by alerting right on time. This package bears more importance in the light of ongoing COVID pandemic.
 
-Pre-requisites:
+**Pre-requisites:**
 You should have webcam connected to your computer and should be fully functional. You also should have python install in the computer. You can check this video to install python if you do not have it already. https://www.youtube.com/watch?v=4Rx_JRkwAjY&ab_channel=ProgrammingKnowledge2 https://www.youtube.com/watch?v=4gTCQCT_930&ab_channel=TechMeSpot
 
-Concept:
+**Concept:**
 This is a really good package for face and hand detection called "mediapipe". This package detects landmarks in face and fingers. These landmarks have unique ids and acquire local image coordinates. The distance between these landmarks can be calculated and analyzed to perform certain tasks such as this
 
-Steps:
+**Steps:**
 1.  open up your terminal by typing `cmd` on the navigation address within the folder where you want to download/clone the code from github
 2.  clone the github repository by pasting this command  `git clone https://github.com/BishwaBS/Alert_Behavior.git`
 3.  change the working directory to Alert_Behavior  `cd Alert_Behavior`
